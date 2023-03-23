@@ -7,6 +7,9 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello world!");
         System.out.println("Hello world!");
+        System.out.println("Hello from Dmitry Stepchenko!");
+        System.out.println("Hello from Evgenii Boitman");
+        System.out.println("Hello from Andrey!");
         System.out.println("PavelPleshkov");
     }
 }
